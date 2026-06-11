@@ -1,0 +1,36 @@
+PROCEDURES E FUNCTIONS A CRIAR
+Produtos
+ - Criar produto
+ - Editar produto
+ - Buscar produto
+ - Remover produto
+
+Usuários
+ - Criar usuário
+ - Editar usuário
+ - Buscar usuário
+ - Remover usuário
+
+Clientes
+ - Criar cliente
+ - Editar cliente
+ - Buscar cliente
+ - Remover cliente
+
+Comandas
+ - Criar comanda
+ - Editar comanda
+ - Buscar comanda
+ - Remover comanda
+
+Mesas
+ - Criar mesa
+ - Editar mesa
+ - Buscar mesa
+ - Remover mesa
+
+Áreas
+ - Criar área
+ - Editar área
+ - Buscar área
+ - Remover área
