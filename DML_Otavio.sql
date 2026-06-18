@@ -16,14 +16,14 @@ INSERT INTO produto (nome_produto, preco_produto, observacao_produto, id_area, d
 VALUES (
     'Batata Frita com Queijo e Bacon', 
     34.90, 
-    'Porção inteira - Serve até 3 pessoas', 
+    'Porï¿½ï¿½o inteira - Serve atï¿½ 3 pessoas', 
     (SELECT id_area FROM area WHERE nome_area = 'Cozinha'), 
     1
 );
 
 INSERT INTO produto (nome_produto, preco_produto, observacao_produto, id_area, disponivel) 
 VALUES (
-    'Hambúrguer Artesanal Xhampolho', 
+    'Hambï¿½rguer Artesanal Xhampolho', 
     29.00, 
     'Blend 180g, queijo prato, alface, tomate e maionese da casa', 
     (SELECT id_area FROM area WHERE nome_area = 'Cozinha'), 
@@ -52,9 +52,9 @@ VALUES (
 
 INSERT INTO produto (nome_produto, preco_produto, observacao_produto, id_area, disponivel) 
 VALUES (
-    'Caipirinha de Limão', 
+    'Caipirinha de Limï¿½o', 
     18.00, 
-    'Com cachaça artesanal da casa e gelo', 
+    'Com cachaï¿½a artesanal da casa e gelo', 
     (SELECT id_area FROM area WHERE nome_area = 'Bar'), 
     1
 );
@@ -63,18 +63,18 @@ INSERT INTO produto (nome_produto, preco_produto, observacao_produto, id_area, d
 VALUES (
     'Refrigerante Lata', 
     6.00, 
-    'Coca-Cola ou Guaraná Antarctica', 
+    'Coca-Cola ou Guaranï¿½ Antarctica', 
     (SELECT id_area FROM area WHERE nome_area = 'Bar'), 
     1
 );
 
 
--- Produtos do Caixa (Produtos de conveniência/balcão comuns em bares)
+-- Produtos do Caixa (Produtos de conveniï¿½ncia/balcï¿½o comuns em bares)
 INSERT INTO produto (nome_produto, preco_produto, observacao_produto, id_area, disponivel) 
 VALUES (
     'Copo Eco Xhampolhos Bar', 
     10.00, 
-    'Copo personalizado reutilizável', 
+    'Copo personalizado reutilizï¿½vel', 
     (SELECT id_area FROM area WHERE nome_area = 'Caixa'), 
     1
 );
@@ -83,13 +83,13 @@ INSERT INTO produto (nome_produto, preco_produto, observacao_produto, id_area, d
 VALUES (
     'Isqueiro', 
     5.50, 
-    'Disponível para venda no balcão de atendimento', 
+    'Disponï¿½vel para venda no balcï¿½o de atendimento', 
     (SELECT id_area FROM area WHERE nome_area = 'Caixa'), 
     1
 );
 
 
 -- ====================================================================
--- 3. CONFIRMAÇÃO DOS DADOS (COMMIT)
+-- 3. CONFIRMAï¿½ï¿½O DOS DADOS (COMMIT)
 -- ====================================================================
 COMMIT;
