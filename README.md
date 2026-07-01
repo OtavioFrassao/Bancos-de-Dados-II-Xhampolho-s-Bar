@@ -44,8 +44,3 @@ DIAGRAMA
 REQUISIÇÕES
 Requisições Xhampolho's Bar LTDA ©
 https://docs.google.com/document/d/1sXJQgjJvlb-QoM3Kbgi--5BEIypCMEt-Q9yamE5UKoU/
-
-
-Essencial
-Processamento
-Empresa
