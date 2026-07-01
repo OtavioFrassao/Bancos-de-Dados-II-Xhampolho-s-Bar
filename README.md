@@ -37,3 +37,15 @@ Associação de produtos aos pedidos;
 Controle de status dos pedidos;
 Cálculo automático do valor total das comandas;
 Encerramento e reutilização de comandas.
+
+DIAGRAMA
+<img width="980" height="794" alt="image" src="https://github.com/user-attachments/assets/1be5e298-d410-4a0a-8e98-b2c49cc34cc1" />
+
+REQUISIÇÕES
+Requisições Xhampolho's Bar LTDA ©
+https://docs.google.com/document/d/1sXJQgjJvlb-QoM3Kbgi--5BEIypCMEt-Q9yamE5UKoU/
+
+
+Essencial
+Processamento
+Empresa
